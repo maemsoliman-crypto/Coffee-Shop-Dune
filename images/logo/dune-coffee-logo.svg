@@ -1,0 +1,19 @@
+<svg width="260" height="260" viewBox="0 0 220 220" xmlns="http://www.w3.org/2000/svg" fill="none">
+
+<!-- Rounded background badge -->
+<rect width="220" height="220" rx="36" fill="#67091E"></rect>
+
+<!-- Coffee cup -->
+<path d="M58 132C58 98 82 78 110 78C138 78 162 98 162 132" stroke="#BE933A" stroke-width="12" stroke-linecap="round"></path>
+
+<!-- Cup base -->
+<path d="M82 132H138" stroke="#BE933A" stroke-width="12" stroke-linecap="round"></path>
+
+<!-- Steam -->
+<path d="M94 62C102 54 102 44 94 36" stroke="#FFD36A" stroke-width="7" stroke-linecap="round"></path>
+
+<path d="M110 58C118 50 118 40 110 32" stroke="#FFD36A" stroke-width="7" stroke-linecap="round"></path>
+
+<path d="M126 62C134 54 134 44 126 36" stroke="#FFD36A" stroke-width="7" stroke-linecap="round"></path>
+
+</svg>
